@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\bin\Debug\net6.0\CalculatorSederhana.exe
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\bin\Debug\net6.0\CalculatorSederhana.deps.json
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\bin\Debug\net6.0\CalculatorSederhana.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\bin\Debug\net6.0\CalculatorSederhana.dll
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\bin\Debug\net6.0\CalculatorSederhana.pdb
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.dll
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\refint\CalculatorSederhana.dll
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.pdb
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\CalculatorSederhana.genruntimeconfig.cache
+D:\Kuliah\Semester 2\Pemograman\CalculatorSederhana\CalculatorSederhana\obj\Debug\net6.0\ref\CalculatorSederhana.dll
